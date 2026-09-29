@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[484,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"minHeight":"100vh","display":"grid","placeItems":"center","padding":"2rem","background":"#07080b","color":"#f4f6f8","fontFamily":"Arial, sans-serif"},"children":["$","div",null,{"children":[["$","p",null,{"children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":"This route does not exist."}],["$","a",null,{"href":"/","children":"Return home"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"sd3cAtrwUzz9qB0LQcxPT"}
+4:null
